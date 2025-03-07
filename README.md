@@ -49,9 +49,9 @@ Cada bit de salida se conecta a una Resistencia que por medio de sus valores va 
 
 - Flash Converter
   
-  | TIPO            | DESVENTAJA                                                                 |
-  |-----------------|----------------------------------------------------------------------------|
-  | Flash Converter | Para cada nivel de comparación se require hardware adicional  Son costosos |
+  | TIPO            | DESVENTAJA                                                                  |
+  |-----------------|-----------------------------------------------------------------------------|
+  | Flash Converter | Para cada nivel de comparación se require hardware adicional,  son costosos |
        
 - Tracking Converter
 
@@ -74,10 +74,16 @@ Cada bit de salida se conecta a una Resistencia que por medio de sus valores va 
   - Modo sencillo
   - Modo continuo
 
-- El inicio de la conversión pudee depender de:
+- El inicio de la conversión puede depender de:
+  
   - Usuario/código
   - Barrido en entradas
   - Interrupción
   - Timer
 
+## 5. Conclusiones 
+
+- Identificar las diferencias claves entre las señales digitales y análogas
+- Analizamos el procedimiento de conversión de señales análogas a digitales
+- Aprendimos las idferentes tecnicas de conversión ADC
 
