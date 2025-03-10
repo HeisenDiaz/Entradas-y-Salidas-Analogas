@@ -87,3 +87,8 @@ Cada bit de salida se conecta a una Resistencia que por medio de sus valores va 
 - Analizamos el procedimiento de conversión de señales análogas a digitales
 - Aprendimos las idferentes tecnicas de conversión ADC
 
+## 6. Autores
+
+  ### Luis Fernando Pulido Salazar - 76257
+  ### Heisen Jawer Diaz Ascencio - 137604
+
